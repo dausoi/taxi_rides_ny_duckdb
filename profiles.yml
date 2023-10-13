@@ -4,4 +4,4 @@ pg-dbt-workshop:
   outputs:
     dev:
       type: duckdb
-      path: 'nyc_taxi.duckdb'
+      path: /home/dawson/db/nyc_taxi.duckdb
